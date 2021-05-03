@@ -1,5 +1,4 @@
-![](https://github.com/geekyamitesh/geekyamitesh/tree/main/images)
-
+![](https://github.com/geekyamitesh/geekyamitesh/tree/main/images/amiteshgithub.png)
 
 
 # Hi there 👋 I'm [Geeky Amitesh!](https://geekyamitesh.github.io/amitesh/)
@@ -48,17 +47,31 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 
 ### :nerd_face: I'm currently learning:
 
-- TypeScript
+- System Design
 
 ### :thinking: I want to learn:
 
-- Next.js
+- Deno
+- Typescript
 - GraphQL
 - Contentful
 
-### Outside of coding I enjoy:
+<details>
+  <summary>Some other achievements about me~e~e</summary>
+  <br>
 
-- Playing video games :video_game:
-- Skateboarding :skateboard:
-- Bowling :bowling:
-- Sci-fi movies/tv shows :vulcan_salute:
+* 🎉 21U21  Winner awarded byy [GirlScript Foundation](https://geekyamitesh.github.io/amitesh/) for extraordinary performance under 21 years old.
+* 🎉 Best Chapter Lead (out of 120 lead) title awarded by [GirlScript Foundation](https://geekyamitesh.github.io/amitesh/) for the community development and contribution.
+
+* 🎉 9000 students impacted through delivering tech session and live hand’s on coding in open source and new
+technology.
+
+</details>
+
+
+<details align="center" >
+  <summary>Listening to 🎶</summary>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
+  </a>
+</details>
