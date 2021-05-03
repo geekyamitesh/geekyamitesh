@@ -1,4 +1,4 @@
-![](https://github.com/geekyamitesh/geekyamitesh/tree/main/images/amiteshgithub.png)
+![](https://github.com/geekyamitesh/geekyamitesh/blob/main/images/amiteshgithub.jpg)
 
 
 # Hi there 👋 I'm [Geeky Amitesh!](https://geekyamitesh.github.io/amitesh/)
@@ -68,8 +68,8 @@ technology.
 
 
 <p align="center">
-<a href= "https://www.linkedin.com/feed/update/urn:li:activity:6716621022201831424/"><img src="" height="100" width="100"/></a>
-<a href= "https://www.linkedin.com/posts/girlscriptcup_gs-cup-family-category-winners-activity-6708749500657283072-EZfP/"><img src="" height="100" width="100"/></a>
+<a href= "https://www.linkedin.com/feed/update/urn:li:activity:6716621022201831424/"><img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/gs_new.png" height="100" width="100"/></a>
+<a href= "https://www.linkedin.com/posts/girlscriptcup_gs-cup-family-category-winners-activity-6708749500657283072-EZfP/"><img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/gscup-min.png" height="100" width="100"/></a>
 
 
 </details>
