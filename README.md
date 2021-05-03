@@ -1,3 +1,5 @@
+![](https://github.com/geekyamitesh/geekyamitesh/tree/main/images)
+
 
 
 # Hi there 👋 I'm [Geeky Amitesh!](https://geekyamitesh.github.io/amitesh/)
