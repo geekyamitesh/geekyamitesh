@@ -11,50 +11,50 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 ## Skill set:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/express-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/mongodb-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/git-original.svg" height="auto" width="40">
 </p>
 
 ### :technologist: I'm currently working on:
 
-- My React, Express, and Node skills
+- My [React](https://reactjs.org/), [Express](https://expressjs.com/), and [Node.js](https://nodejs.org/en/) skills
 - Another MERN Stack App
 
 ### :nerd_face: I'm currently learning:
 
-- System Design
+- [System Design](https://github.com/donnemartin/system-design-primer)
 
 ### :thinking: I want to learn:
 
-- [Deno](https://deno.land/)
-- [Typescript](https://www.typescriptlang.org/)
-- [GraphQL](https://graphql.org/)
-- [Contentful](https://www.contentful.com/)
+* 📚 [Deno](https://deno.land/)
+* 📚 [Typescript](https://www.typescriptlang.org/)
+* 📚[GraphQL](https://graphql.org/)
+* 📚 [Contentful](https://www.contentful.com/)
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
@@ -68,7 +68,7 @@ technology.
 
 
 <p align="center">
-<a href= "https://www.linkedin.com/feed/update/urn:li:activity:6716621022201831424/"><img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/gs_new.png" height="100" width="100"/></a>
+<a href= "https://www.linkedin.com/feed/update/urn:li:activity:6716621022201831424/"><img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/GIRLSCRIPT.TECH.png" height="100" width="100"/></a>
 <a href= "https://www.linkedin.com/posts/girlscriptcup_gs-cup-family-category-winners-activity-6708749500657283072-EZfP/"><img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/gscup-min.png" height="100" width="100"/></a>
 
 
@@ -81,3 +81,22 @@ technology.
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
   </a>
 </details>
+
+
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://github.com/geekyamitesh"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/geekyamitesh/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/geekyamitesh"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://geekyamitesh.github.io/amitesh/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=geekyamitesh.geekyamitesh" alt="visitor badge"/>       
+</p>
+
+</p>
