@@ -51,25 +51,31 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 
 ### :thinking: I want to learn:
 
-- Deno
-- Typescript
-- GraphQL
-- Contentful
+- [Deno](https://deno.land/)
+- [Typescript](https://www.typescriptlang.org/)
+- [GraphQL](https://graphql.org/)
+- [Contentful](https://www.contentful.com/)
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 🎉 21U21  Winner awarded byy [GirlScript Foundation](https://geekyamitesh.github.io/amitesh/) for extraordinary performance under 21 years old.
-* 🎉 Best Chapter Lead (out of 120 lead) title awarded by [GirlScript Foundation](https://geekyamitesh.github.io/amitesh/) for the community development and contribution.
+* 🎉 21U21  Winner awarded byy [GirlScript Foundation](https://www.girlscript.tech/home) for extraordinary performance under 21 years old.
+* 🎉 Best Chapter Lead (out of 120 lead) title awarded by [GirlScript Foundation](https://www.girlscript.tech/home) for the community development and contribution.
 
 * 🎉 9000 students impacted through delivering tech session and live hand’s on coding in open source and new
 technology.
 
+
+<p align="center">
+<a href= "https://www.linkedin.com/feed/update/urn:li:activity:6716621022201831424/"><img src="" height="100" width="100"/></a>
+<a href= "https://www.linkedin.com/posts/girlscriptcup_gs-cup-family-category-winners-activity-6708749500657283072-EZfP/"><img src="" height="100" width="100"/></a>
+
+
 </details>
 
 
-<details align="center" >
+<details>
   <summary>Listening to 🎶</summary>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
