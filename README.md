@@ -61,7 +61,7 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 <summary>GeekyAmitesh's GitHub stats</summary>
 <p align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=geekyamitesh)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=geekyamitesh"/>
   </a>
 </p>
 </details>
