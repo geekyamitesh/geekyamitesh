@@ -56,6 +56,17 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 * 📚[GraphQL](https://graphql.org/)
 * 📚 [Contentful](https://www.contentful.com/)
 
+
+<details >
+<summary>GeekyAmitesh's GitHub stats</summary>
+<p align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=geekyamitesh)"/>
+  </a>
+</p>
+</details>
+
+
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
@@ -75,6 +86,9 @@ technology.
 </details>
 
 
+
+
+
 <details>
   <summary>Listening to 🎶</summary>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
@@ -86,7 +100,7 @@ technology.
   <summary>Motivate Myself:</summary>
 
 
-   <p align="center">
+<p align="center">
   <a href="">
     <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"/>
   </a>
