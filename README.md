@@ -84,9 +84,13 @@ technology.
 
 <details >
   <summary>Motivate Myself:</summary>
-  <p align="center">
-       ![](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) 
-  </p>
+
+
+   <p align="center">
+  <a href="">
+    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"/>
+  </a>
+</p>
   </details>
 
 <hr>
