@@ -47,7 +47,7 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 
 ### :nerd_face: I'm currently learning:
 
-- [System Design](https://github.com/donnemartin/system-design-primer)
+* 🔥 [System Design](https://github.com/donnemartin/system-design-primer)
 
 ### :thinking: I want to learn:
 
