@@ -1,6 +1,5 @@
 ![](https://github.com/geekyamitesh/geekyamitesh/blob/main/images/amiteshgithub.jpg)
 
-<hr>
 
 # Hi there 👋 I'm [Geeky Amitesh!](https://geekyamitesh.github.io/amitesh/)
 
