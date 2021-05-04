@@ -68,7 +68,7 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>
+  <summary>Some other achievements about me✨</summary>
   <br>
 
 * 🏆 21U21  Winner awarded byy [GirlScript Foundation](https://www.girlscript.tech/home) for extraordinary performance under 21 years old.
