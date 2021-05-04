@@ -51,10 +51,10 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 
 ### :thinking: I want to learn:
 
-* 📚 [Deno](https://deno.land/)
-* 📚 [Typescript](https://www.typescriptlang.org/)
-* 📚[GraphQL](https://graphql.org/)
-* 📚 [Contentful](https://www.contentful.com/)
+* 📌 [Deno](https://deno.land/)
+* 📌 [Typescript](https://www.typescriptlang.org/)
+* 📌[GraphQL](https://graphql.org/)
+* 📌 [Contentful](https://www.contentful.com/)
 
 
 <details >
@@ -71,8 +71,8 @@ Full-stack Developer and competitive programmer. My role is to write and style t
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 🎉 21U21  Winner awarded byy [GirlScript Foundation](https://www.girlscript.tech/home) for extraordinary performance under 21 years old.
-* 🎉 Best Chapter Lead (out of 120 lead) title awarded by [GirlScript Foundation](https://www.girlscript.tech/home) for the community development and contribution.
+* 🏆 21U21  Winner awarded byy [GirlScript Foundation](https://www.girlscript.tech/home) for extraordinary performance under 21 years old.
+* 🏆 Best Chapter Lead (out of 120 lead) title awarded by [GirlScript Foundation](https://www.girlscript.tech/home) for the community development and contribution.
 
 * 🎉 9000 students impacted through delivering tech session and live hand’s on coding in open source and new
 technology.
