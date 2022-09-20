@@ -50,6 +50,8 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 ### :nerd_face: I'm currently learning:
 
 * 🔥 [System Design](https://github.com/donnemartin/system-design-primer)
+* 🔥 [Swift](https://developer.apple.com/swift/)
+* 🔥 [Swift Design Pattern](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
 
 ### :thinking: I want to learn:
 
