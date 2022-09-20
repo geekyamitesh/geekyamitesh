@@ -43,6 +43,8 @@ Full-stack Developer and competitive programmer. My role is to write and style t
 ### :technologist: I'm currently working on:
 
 - My [React](https://reactjs.org/), [Express](https://expressjs.com/), and [Node.js](https://nodejs.org/en/) skills
+- Working for india largest trading company [Upstox](https://upstox.com/) as an iOS Developer
+- Now [Swift](https://developer.apple.com/swift/) is my love
 - Another MERN Stack App
 
 ### :nerd_face: I'm currently learning:
